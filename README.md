@@ -4,7 +4,7 @@ A **fully serverless, event-driven image processing system** built on AWS using 
 This project demonstrates how scalable, cost-efficient, and production-ready image workflows can be implemented without managing any servers.
 
 ---
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Gemini_Generated_Image_6peocb6peocb6peo.png)
 
 ## 🚀 Project Overview
 
@@ -228,11 +228,11 @@ aws logs tail /aws/lambda/<FUNCTION_NAME> --follow
 ---
 
 # Proof Of Work
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
-![Alt text](image-url)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Screenshot%20(302).png)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Screenshot%20(303).png)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Screenshot%20(304).png)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Screenshot%20(306).png)
+![Alt text](https://github.com/Naveen15github/Serverless-Image-Processing-Using-AWS-Lambda-Terraform/blob/e767d9a37d5dea6f346eaedde11360ed38ddafcc/Screenshot%20(307).png)
 
 
 ## 🧹 Cleanup
