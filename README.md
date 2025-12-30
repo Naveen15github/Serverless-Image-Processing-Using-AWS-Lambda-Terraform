@@ -258,12 +258,3 @@ Removes:
 * Applied **IaC best practices** using Terraform
 * Built a production-grade pipeline with minimal operational overhead
 
----
-
-## 📌 Reference
-
-This project is inspired by the implementation walkthrough:
-**“Image Processing Serverless Project using AWS Lambda” – Tech Tutorials with Piyush**
-
-The architecture and implementation were independently recreated, enhanced, and production-hardened.
-
