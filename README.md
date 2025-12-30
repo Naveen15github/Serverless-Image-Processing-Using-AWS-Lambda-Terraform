@@ -4,6 +4,7 @@ A **fully serverless, event-driven image processing system** built on AWS using 
 This project demonstrates how scalable, cost-efficient, and production-ready image workflows can be implemented without managing any servers.
 
 ---
+![Alt text](image-url)
 
 ## 🚀 Project Overview
 
@@ -225,6 +226,14 @@ aws logs tail /aws/lambda/<FUNCTION_NAME> --follow
 | Typical Monthly Cost | **$0.50 – $2.00**         |
 
 ---
+
+# Proof Of Work
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+![Alt text](image-url)
+
 
 ## 🧹 Cleanup
 
